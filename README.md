@@ -27,12 +27,12 @@ A sleek and responsive web application that fetches and displays random jokes fr
 
 ### API Reference
 
-- [JokeAPI](https://jokeapi.dev/): Provides the jokes used in the application.
+- [JokeAPI](https://jokeapi.dev/):
 
 
 ### Screenshot
 
-![Joke Fetcher App Preview](./screenshoots/iPhone-13-PRO-127.0.0.1%20(1).png "Joke Fetcher App Preview")
+![Image](https://github.com/user-attachments/assets/c77f4fe9-f8e6-4872-b91d-ce37238f00d9)
 
 
 Happy Laughing! 😊
